@@ -1,8 +1,12 @@
+ansicolors 1.0.2-3
+argparse 0.5.0-1
 busted 2.0.rc12-1
 dkjson 2.5-2
 inspect 3.1.0-1
 ldoc 1.4.6-2
+liquid scm-1
 lua-resty-env 0.4.0-1
+lua-resty-execvp 0.1.0-1
 lua-resty-http 0.10-0
 lua-resty-iputils 0.3.0-1
 lua-resty-jwt 0.1.10-1
