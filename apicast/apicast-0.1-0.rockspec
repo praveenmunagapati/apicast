@@ -9,6 +9,7 @@ dependencies = {
   'lua-resty-url',
   'lua-resty-env',
   'lua-resty-execvp',
+  'liquid',
 }
 build = {
    type = "builtin",
